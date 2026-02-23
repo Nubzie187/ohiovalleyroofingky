@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 90" width="420" height="90">
+  <!-- Industrial accent line -->
+  <line x1="0" y1="5" x2="420" y2="5" stroke="#ff6b35" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Ohio Valley - Primary, emphasized -->
+  <text x="0" y="52" font-family="Arial, Helvetica, sans-serif" 
+        font-size="42" font-weight="700" fill="#ffffff" letter-spacing="-0.03em">
+    Ohio Valley
+  </text>
+  
+  <!-- Roofing KY - Secondary, smaller -->
+  <text x="0" y="82" font-family="Arial, Helvetica, sans-serif" 
+        font-size="20" font-weight="500" fill="#ffffff" opacity="0.92" letter-spacing="0.08em">
+    ROOFING KY
+  </text>
+</svg>
