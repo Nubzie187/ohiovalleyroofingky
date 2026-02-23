@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
         formData.append('details', details || 'N/A');
 
         // Submit to Formspree
-        fetch('https://formspree.io/f/mlgerlop', {
+        fetch('https://formspree.io/f/mojnpqoa', {
             method: 'POST',
             body: formData,
             headers: {
